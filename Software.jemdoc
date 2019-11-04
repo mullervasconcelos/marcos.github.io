@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{index.html}
+= Software
+
+
+== Optimal estimation of discrete random variables over the collision channel  
+
+
+  - Matlab script to search for a globally optimal solution in the general case: [Resources/Collision_discrete_code.m Collision_discrete_code.m]
+
+  - Matlab script to search for a globally optimal solution in the i.i.d case: [Resources/Collision_discrete_code_iid.m Collision_discrete_code_iid.m]

@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{index.html}
+= Publications
+
+
+
+
+== Journal papers
+
+- “[https://arxiv.org/abs/1804.01709 Observation-driven scheduling for remote estimation of two Gaussian random variables]”, *M. M. Vasconcelos* and U. Mitra, *Conditionally Accepted at* /IEEE Transactions on Control of Network Systems/.
+
+- “[Resources/FINAL_singlecolumn_v2.pdf Optimal remote estimation of discrete random variables over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, *Accepted at* /IEEE Transactions on Automatic Control/.
+
+- “[http://ieeexplore.ieee.org/document/7460225/ Optimal estimation over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 62, no. 1, pp. 321--336, January 2017.
+
+== Journal papers in preparation
+
+- “Optimal sensor scheduling for networked estimation with energy harvesting”, *M. M. Vasconcelos*, M. Gagrani, A. Nayyar and U. Mitra.
+
+- “Implicit communication over collision networks”, *M. M. Vasconcelos* and U. Mitra.
+
+- “Optimal control of bacterial growth via quorum sensing”, *M. M. Vasconcelos*, O. Camara, U. Mitra, and J. Boedicker.
+
+== Book chapter
+
+- “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. Martins, To appear in /Principles of Cyber-physical Systems/, S. Roy and S. Das, Eds., Cambridge University Press. [mvasconc@usc.edu E-mail me for a pre-print.]
+
+== Conference papers
+
+
+ - “[Resources/Asilomar2018_Marcos.pdf A sequential decision making model of bacterial growth via quorum sensing]”, *M. M. Vasconcelos*, O. Camara, U. Mitra, and J. Boedicker,  /Asilomar Conference on Signals, Systems and Computers/, Pacific Grove - California, 2018. *(invited)*
+
+- “Scheduling and estimation strategy design in a sequential networked estimation problem”, M. Gagrani, *M. M. Vasconcelos*, A. Nayyar,  / 56th Allerton Conference on Communication, Control and Computing/, Monticello - Illinois, 2018.
+
+
+- "[Resources/QSmodel.pdf Bacterial quorum sensing as a networked
+decision system]",  *M. M. Vasconcelos*, U. Mitra, O. Camara, K. P. Silva, and J. Boedicker,   /IEEE International Conference on Communications/, 2018.
+
+
+- “[Resources/CDC2017_Final.pdf Optimal sensor scheduling strategies in networked estimation]”, *M. M. Vasconcelos*, Ashutosh Nayyar and U. Mitra,  
+56th /IEEE Conference on Decision and Control/, 2017. 
+
+- “[http://ieeexplore.ieee.org/document/8262724/ The multiple-access collision channel without feedback: capacity region and a mutual information game]”, *M. M. Vasconcelos* and U. Mitra,  
+/55th Annual Allerton Conference on Communication, Control, and Computing/, 2017.
+
+- “[http://ieeexplore.ieee.org/document/7996567/ Observation-driven sensor scheduling]”, *M. M. Vasconcelos* and U. Mitra,
+/IEEE International Conference on Communications/, 2017.
+
+- “[http://ieeexplore.ieee.org/document/7798289/ The structure of optimal communication policies for remote estimation over the collision channel with private and common  observations]”, *M. M. Vasconcelos* and N. C. Martins, 55th /IEEE Conference on Decision and Control/, 2016.
+
+- “[http://ieeexplore.ieee.org/document/7402360/ Optimal threshold strategies for estimation over the collision channel with communication costs]”, *M. M. Vasconcelos* and N. C. Martins, 54th /IEEE Conference on Decision and Control/, 2015.
+
+- “[http://ieeexplore.ieee.org/document/7028429/ Remote estimation games over shared networks]”, *M. M. Vasconcelos* and N. C. Martins, /52nd Annual Allerton Conference on Communication, Control, and Computing/, 2014. *(invited)*
+
+- “[http://ieeexplore.ieee.org/document/6736649/ Estimation over the collision channel: structural results]”, *M. M. Vasconcelos* and N. C. Martins, /51st Annual Allerton Conference on Communication, Control, and Computing/, 2013. *(invited)*

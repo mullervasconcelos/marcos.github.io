@@ -1,0 +1,24 @@
+# jemdoc: menu{MENU}{index.html}
+= Ph.D. Thesis
+
+
+
+
+
+=== [http://hdl.handle.net/1903/19045 Optimality of Event-Based Policies for Decentralized Estimation over Shared Networks]
+\n
+[index.html Marcos M. Vasconcelos]\n
+University of Maryland, College Park, 2016
+
+== Abstract
+Cyber-physical systems often consist of multiple non-collocated components that sense, exchange information and act as a team through a network. Although this new paradigm provides convenience, flexibility and robustness to modern systems, design methods to achieve optimal performance are elusive as they must account for certain detrimental characteristics of the underlying network. These include constrained connectivity among agents, rate-limited communication links, physical noise at the antennas, packet drops and interference. We propose a new class of problems in optimal networked estimation where multiple sensors operating as a team communicate their measurements to a fusion center over an interference prone network modeled by a collision channel. Using a team decision theoretic approach, we characterize jointly optimal communication policies for one-shot problems under different performance criteria. 
+
+First we study the problem of estimating two independent continuous random variables observed by two different sensors communicating with a fusion center over a collision channel. For a minimum mean squared estimation error criterion, we show that there exist team-optimal strategies where each sensor uses a threshold policy. This result is independent of the distribution of the observations and, can be extended to vector observations and to any number of sensors. Consequently, the existence of team-optimal threshold policies is a result of practical significance, because it can be applied to a wide class of systems without requiring collision avoidance protocols. 
+
+Next we study the problem of estimating independent discrete random variables over a collision channel. Using two different criteria involving the probability of estimation error, we show the existence of team-optimal strategies where the sensors either transmit all but the most likely observation; transmit only the second most likely observation; or remain always silent. These results are also independent of the distributions and are valid for any number of sensors. In our analysis, the proof of the structural result involves the minimization of a concave functional, which is an evidence of the inherent complexity of team decision problems with nonclassical information structure. 
+
+In the last part of the dissertation, the assumption on the cooperation among sensors is relaxed, and we show that similar structural results can also be obtained for systems with one or more selfish sensors. Finally the assumption of the independence is lifted by introducing the observation of a common random variable in addition to the private observations of each sensor. The structural result obtained provides valuable insights on the characterization of team-optimal policies for a general correlation structure between the observed random variables.
+
+
+
+
