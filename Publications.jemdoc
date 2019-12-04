@@ -6,7 +6,7 @@
 
 == Journal papers
 
-- “[Data-driven sensor scheduling for remote estimation in wireless networks]”, *M. M. Vasconcelos* and U. Mitra, *Submitted* to /IEEE Transactions on Control of Network Systems/.
+- “Data-driven sensor scheduling for remote estimation in wireless networks”, *M. M. Vasconcelos* and U. Mitra, *Submitted* to /IEEE Transactions on Control of Network Systems/.
 
 - “[https://arxiv.org/abs/1908.06070 Optimal sensor scheduling for networked estimation with energy harvesting]”, *M. M. Vasconcelos*, M. Gagrani, A. Nayyar and U. Mitra, *Submitted* to /IEEE Transactions on Control of Network Systems/.
 
@@ -16,13 +16,13 @@
 
 - “[http://ieeexplore.ieee.org/document/7460225/ Optimal estimation over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 62, no. 1, pp. 321--336, January 2017.
 
-== Journal papers in preparation
-
-- "Optimization for data-driven wireless sensor scheduling", *M. M. Vasconcelos* and U. Mitra.
-
-- "Decentralized design of threshold policies for the collision channel," X. Zhang, *M. M. Vasconcelos*, W. Cui and U. Mitra.
+== Working papers
 
 - “Optimal control of bacterial growth via quorum sensing”, *M. M. Vasconcelos*, O. Camara, U. Mitra, and J. Boedicker.
+
+
+- "Remote estimation over the collision channel with and without local communication," X. Zhang, *M. M. Vasconcelos*, W. Cui and U. Mitra.
+
 
 - “Implicit communication over collision networks”, *M. M. Vasconcelos* and U. Mitra.
 
