@@ -10,11 +10,11 @@
 
 - “[https://arxiv.org/abs/1908.06070 Optimal sensor scheduling for networked estimation with energy harvesting]”, *M. M. Vasconcelos*, M. Gagrani, A. Nayyar and U. Mitra, *Submitted* to /IEEE Transactions on Control of Network Systems/.
 
-- “[https://arxiv.org/abs/1804.01709 Observation-driven scheduling for remote estimation of two Gaussian random variables]”, *M. M. Vasconcelos* and U. Mitra, /IEEE Transactions on Control of Network Systems/ (*accepted*).
+- “[Resources/ODSS.pdf Observation-driven scheduling for remote estimation of two Gaussian random variables]”, *M. M. Vasconcelos* and U. Mitra, /IEEE Transactions on Control of Network Systems/ (*accepted*).
 
-- “[Resources/FINAL_singlecolumn_v2.pdf Optimal remote estimation of discrete random variables over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 64, no. 4, pp. 1519–1534, 2019.
+- “[Resources/Collision_Channel_MAP.pdf Optimal remote estimation of discrete random variables over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 64, no. 4, pp. 1519–1534, 2019.
 
-- “[http://ieeexplore.ieee.org/document/7460225/ Optimal estimation over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 62, no. 1, pp. 321--336, January 2017.
+- “[Resources/Collision_Channel_MMSE.pdf Optimal estimation over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 62, no. 1, pp. 321--336, January 2017.
 
 == Working papers
 
