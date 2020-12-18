@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{index.html}
 = Software
 
+== Remote estimation over the collision channel with and without local communication
+
+  - [https://github.com/mullervasconcelos/collision-quantile code]
 
 
 == Data-driven sensor scheduling for remote estimation in wireless networks
@@ -8,11 +11,6 @@
   - [https://github.com/mullervasconcelos/DDSS.git code]
 
 
-
-
 == Optimal estimation of discrete random variables over the collision channel  
 
-
-  - Matlab script to search for a globally optimal solution in the general case: [Resources/Collision_discrete_code.m Collision_discrete_code.m]
-
-  - Matlab script to search for a globally optimal solution in the i.i.d case: [Resources/Collision_discrete_code_iid.m Collision_discrete_code_iid.m]
+	- [https://github.com/mullervasconcelos/collision-discrete.git code]
