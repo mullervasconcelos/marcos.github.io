@@ -6,15 +6,17 @@
 
 == Journal papers
 
+J8. "Distributed convex optimization via maximal dissent: state-dependent subgradient methods and their convergence analysis," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, *Submitted in February 2022 to* IEEE Transactions on Control of Network Systems/.
 
-J7. " Optimal strategy for public good production is set by balancing intertemporal trade-off between population growth rate and carrying capacity," M. S. Gangan, *M. M. Vasconcelos*, U. Mitra, O. Camara and J. Q. Boedicker, 
-*Submitted in July 2021 to* /PLOS Computational Biology/.
+
+J7. "[https://www.biorxiv.org/content/10.1101/2021.07.22.453373v1.abstract Optimal strategy for public good production is set by balancing intertemporal trade-off between population growth rate and carrying capacity]," M. S. Gangan, *M. M. Vasconcelos*, U. Mitra, O. Camara and J. Q. Boedicker, 
+*Accepted in February 2022 to* /iScience/.
 
 
 J6. "[https://arxiv.org/abs/2005.11438 Remote estimation over the collision channel with and without local communication]," X. Zhang, *M. M. Vasconcelos*, W. Cui and U. Mitra, *Accepted in June 2021* to /IEEE Transactions on Control of Network Systems/.
 
 
-J5. “[https://arxiv.org/abs/1912.02411 Data-driven sensor scheduling for remote estimation in wireless networks]”, *M. M. Vasconcelos* and U. Mitra, *Accepted in November 2020* to /IEEE Transactions on Control of Network Systems/.
+J5. “[Resources/Data-Driven_Sensor_Scheduling_for_Remote_Estimation_in_Wireless_Networks.pdf Data-driven sensor scheduling for remote estimation in wireless networks]”, *M. M. Vasconcelos* and U. Mitra, /IEEE Transactions on Control of Network Systems/, vol. 8, no. 2, pp. 725--737, June 2021.
 
 J4. “[Resources/OPT_SSEH.pdf Optimal sensor scheduling for networked estimation with energy harvesting]”, *M. M. Vasconcelos*, M. Gagrani, A. Nayyar and U. Mitra, /IEEE Transactions on Control of Network Systems/, vol. 7, no. 4, pp. 1723--1735, December 2020.
 
@@ -24,14 +26,6 @@ J2. “[Resources/Collision_Channel_MAP.pdf Optimal remote estimation of discret
 
 J1. “[Resources/Collision_Channel_MMSE.pdf Optimal estimation over the collision channel]”, *M. M. Vasconcelos* and N. C. Martins, /IEEE Transactions on Automatic Control/, vol. 62, no. 1, pp. 321--336, January 2017.
 
-== Working papers
-
-
-W2. “Distributed Wireless Medium Access Control Schemes via Federated Learning”, *M. M. Vasconcelos* and U. Mitra.
-
-W1. “Implicit communication over collision networks”, *M. M. Vasconcelos* and U. Mitra.
-
-
 
 == Book chapter
 
@@ -40,10 +34,15 @@ B1. “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. 
 == Conference papers
 
 
+C18. "Bio-inspired multi-agent coordination games with Poisson observations," *M. M. Vasconcelos*, *(Submitted to)* Conference on Network Systems, Zurich - Switzerland, 2022.
 
-C16. "Max-Gossip Subgradient Method for Distributed Optimization," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, *submitted* to /IEEE Conference on Decision and Control/, Austin - TX, 2021.
 
-C15. "Improved Convergence Rate for a Distributed Two-Time-Scale Gradient Method under Random Quantization", *M. M. Vasconcelos*, T. T. Doan and U. Mitra,  *submitted* to /IEEE Conference on Decision and Control/, Austin - TX, 2021.
+C17. "Learning distributed channel access policies for networked estimation: data-driven optimization in the mean-field regime," *M. M. Vasconcelos*, *(Submitted to)* Conference on Learning for Dynamics and Control, Stanford - CA, 2022.
+
+
+C16. "Max-Gossip Subgradient Method for Distributed Optimization," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, /IEEE Conference on Decision and Control/, Austin - TX, 2021.
+
+C15. "Improved Convergence Rate for a Distributed Two-Time-Scale Gradient Method under Random Quantization", *M. M. Vasconcelos*, T. T. Doan and U. Mitra, to /IEEE Conference on Decision and Control/, Austin - TX, 2021.
 
 
 C14. “A sample-efficient scheme for channel resource allocation in networked estimation”, *M. M. Vasconcelos* and U. Mitra, /IEEE International Conference on Acoustics, Speech and Signal Processing/, Toronto - Canada, 2021.
