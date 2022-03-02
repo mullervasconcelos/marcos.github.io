@@ -29,7 +29,7 @@ J1. “[Resources/Collision_Channel_MMSE.pdf Optimal estimation over the collisi
 
 == Book chapter
 
-B1. “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. Martins, /Principles of Cyber-physical Systems/, S. Roy and S. Das, Eds., Cambridge University Press.
+B1. “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. Martins, /Principles of Cyber-physical Systems/, S. Roy and S. Das, Eds., Cambridge University Press, 2020.
 
 == Conference papers
 
@@ -37,7 +37,7 @@ B1. “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. 
 C18. "Bio-inspired multi-agent coordination games with Poisson observations," *M. M. Vasconcelos*, *(Submitted to)* Conference on Network Systems, Zurich - Switzerland, 2022.
 
 
-C17. "Learning distributed channel access policies for networked estimation: data-driven optimization in the mean-field regime," *M. M. Vasconcelos*, *(Submitted to)* Conference on Learning for Dynamics and Control, Stanford - CA, 2022.
+C17. "Learning distributed channel access policies for networked estimation: data-driven optimization in the mean-field regime," *M. M. Vasconcelos*, *(Accepted)* Conference on Learning for Dynamics and Control, Stanford - CA, 2022.
 
 
 C16. "Max-Gossip Subgradient Method for Distributed Optimization," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, /IEEE Conference on Decision and Control/, Austin - TX, 2021.

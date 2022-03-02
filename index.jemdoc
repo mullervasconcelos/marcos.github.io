@@ -19,7 +19,7 @@ Contact: [marcosv@vt.edu] \n
 ~~~
 {Announcement}
 
-*I will be joining [https://vt.edu Virginia Tech] as a Research Assistant Professor starting in Spring 2021. I will be hiring Ph.D. students and Postdocs to work in areas related to machine learning, control, and optimization with applications to communication networks and systems biology. If you are interested in any of these topics, please send me an [marcosv@vt.edu email]. Thank you for your interest!*  
+*I am hiring Ph.D. students to work in machine learning, control, optimization, and game theory with applications in communication networks and systems biology. If you are interested in any of these topics, please send me an [marcosv@vt.edu email].*  
 
 ~~~
 
@@ -33,18 +33,22 @@ Contact: [marcosv@vt.edu] \n
 
 
 == Research Interests
-- Data-driven optimization
-- Networked decision systems
-- Systems Biology
-- Decentralized estimation, control and optimization
+- Network Systems
+- Cyber-Physical Systems
+- Game Theory
+- Distributed Estimation, Control and Optimization
 
 
 
 == News, talks & travel
 ~~~
 
-- *January 2021:* Our paper on sample efficient data-driven optimization for remote estimation has been for presentation at ICASSP!
-- *November 2020:* Our paper on data-driven optimization for sensor scheduling has been accepted for publication at IEEE TCNS!
+
+- *March 2022:* Our paper on learning optimal policies for remote estimation has been accepted at the L4DC conference. *Looking forward to traveling to Stanford!*
+- *February 2022:* Our first journal paper on systems biology has been accepted for publication at iScience. *First of many to come!*
+- *January 2022:* Our research group is growing: M.Sc. students Yi Wei and Tarun Rao Keshabhoina have joined us to work on security of Cyber-physical systems.
+- *January 2021:* Our paper on sample efficient data-driven optimization for remote estimation has been for presentation at ICASSP.
+- *November 2020:* Our paper on data-driven optimization for sensor scheduling has been accepted for publication at IEEE TCNS.
 - *September 2020:* I will be joining [https://vt.edu Virginia Tech]  as a Research Assistant Professor starting in Spring 2021.
 - *April 2020:* The paper with results from our collaboration with [https://sites.google.com/usc.edu/ashutosh Prof. Ashutosh Nayyar] and [http://www-scf.usc.edu/~mgagrani/ Mukul Gagrani] was accepted for publication at IEEE TCNS! 
 - *Mar 2020:* Talk at [https://ee-ciss.princeton.edu 54th Annual Conference on Information Sciences and Systems], Princeton, NJ (*cancelled*).
