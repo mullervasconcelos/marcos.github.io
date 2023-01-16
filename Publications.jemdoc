@@ -6,14 +6,14 @@
 
 == Journal papers
 
-J8. "Distributed convex optimization via maximal dissent: state-dependent subgradient methods and their convergence analysis," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, *Submitted in February 2022 to* /IEEE Transactions on Control of Network Systems/.
+J8. "[https://arxiv.org/abs/2205.00647 Maximal Dissent: a State-Dependent Way to Agree in Distributed Convex Optimization]," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, *Accepted in January 2023 to* /IEEE Transactions on Control of Network Systems/.
 
 
-J7. "[https://www.biorxiv.org/content/10.1101/2021.07.22.453373v1.abstract Optimal strategy for public good production is set by balancing intertemporal trade-off between population growth rate and carrying capacity]," M. S. Gangan, *M. M. Vasconcelos*, U. Mitra, O. Camara and J. Q. Boedicker, 
-*Accepted in February 2022 to* /iScience/.
+J7. "[https://www.sciencedirect.com/science/article/pii/S258900422200387X Optimal strategy for public good production is set by balancing intertemporal trade-off between population growth rate and carrying capacity]," M. S. Gangan, *M. M. Vasconcelos*, U. Mitra, O. Camara and J. Q. Boedicker, 
+/iScience/ 25, 104117, April 15, 2022.
 
 
-J6. "[https://arxiv.org/abs/2005.11438 Remote estimation over the collision channel with and without local communication]," X. Zhang, *M. M. Vasconcelos*, W. Cui and U. Mitra, *Accepted in June 2021* to /IEEE Transactions on Control of Network Systems/.
+J6. "[Resources/Distributed_Remote_Estimation_Over_the_Collision_Channel_With_and_Without_Local_Communication.pdf Remote estimation over the collision channel with and without local communication]," X. Zhang, *M. M. Vasconcelos*, W. Cui and U. Mitra, *Accepted in June 2021* to /IEEE Transactions on Control of Network Systems/, vol. 9, no. 1, pp. 282--294, March 2022.
 
 
 J5. “[Resources/Data-Driven_Sensor_Scheduling_for_Remote_Estimation_in_Wireless_Networks.pdf Data-driven sensor scheduling for remote estimation in wireless networks]”, *M. M. Vasconcelos* and U. Mitra, /IEEE Transactions on Control of Network Systems/, vol. 8, no. 2, pp. 725--737, June 2021.
@@ -34,10 +34,17 @@ B1. “A survey on remote estimation problems”, *M. M. Vasconcelos* and N. C. 
 == Conference papers
 
 
+C21. "Top-k data selection via distributed sample quantile inference," X. Zhang and *M. M. Vasconcelos*, (*Submitted to*) /5th Annual Learning for Dynamics and Control (L4DC) Conference/, UPenn - PA, 2023.
+
+C20. "[https://arxiv.org/abs/2212.10968 Strategic multi-task coordination over regular networks of robots with limited computation and communication capabilities]," Y. Wei and *M. M. Vasconcelos*, *(Submitted to)* /Conference on Information Sciences and Systems/, Baltimore - MD, 2023.
+
+C19. "[https://arxiv.org/abs/2204.00148 Robust remote estimation over the collision channel in the presence of an intelligent jammer]," X Zhang and *M. M. Vasconcelos*, /IEEE Conference on Decision and Control/, Cancun - Mexico, 2022.
+
+
 C18. "Bio-inspired multi-agent coordination games with Poisson observations," *M. M. Vasconcelos*, *(Submitted to)* Conference on Network Systems, Zurich - Switzerland, 2022.
 
 
-C17. "Learning distributed channel access policies for networked estimation: data-driven optimization in the mean-field regime," *M. M. Vasconcelos*, *(Accepted)* Conference on Learning for Dynamics and Control, Stanford - CA, 2022.
+C17. "[https://proceedings.mlr.press/v168/vasconcelos22a.html Learning distributed channel access policies for networked estimation: data-driven optimization in the mean-field regime]," *M. M. Vasconcelos*, /Proceedings of The 4th Annual Learning for Dynamics and Control (L4DC) Conference/, PMLR 168:702-712, Stanford - CA, 2022.
 
 
 C16. "Max-Gossip Subgradient Method for Distributed Optimization," A. Verma, *M. M. Vasconcelos*, U. Mitra and B. Touri, /IEEE Conference on Decision and Control/, Austin - TX, 2021.
